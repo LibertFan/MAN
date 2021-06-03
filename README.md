@@ -1,7 +1,7 @@
 
 # Mask Attention Networks
 
-This repo contains the codes and pretrained models for our paper:
+This repo contains the codes and pretrained models for our [paper](https://arxiv.org/abs/2103.13597v1):
 
 ```
 Mask Attention Networks: Rethinking and Strengthen Transformer
